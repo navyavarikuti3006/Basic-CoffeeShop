@@ -20,3 +20,5 @@
    ![Screenshot](https://github.com/navyavarikuti3006/Basic-CoffeeShop/blob/0bc186c25dd6feb38f8ad57df1a20223572d6b28/Screenshots/ScreenshotImg_1.jpeg)
 
    ![Screenshot](https://github.com/navyavarikuti3006/Basic-CoffeeShop/blob/1c89366094ad08bf872c29b3cdace111574106c1/Screenshots/ScreenshotImg_2.jpeg)
+
+   ![Screenshot](https://github.com/navyavarikuti3006/Basic-CoffeeShop/blob/4bc4503897fcbcfb18190463a2c6e2d4b013df3d/Screenshots/ScreenshotImg_3.jpeg)
