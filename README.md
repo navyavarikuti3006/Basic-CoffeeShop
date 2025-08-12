@@ -17,4 +17,4 @@
 
    **Screenshots Of Project**
 
-   ![Screenshot](assets/)
+   ![Screenshot](https://github.com/navyavarikuti3006/Basic-CoffeeShop/blob/0bc186c25dd6feb38f8ad57df1a20223572d6b28/Screenshots/ScreenshotImg_1.jpeg)
